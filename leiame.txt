@@ -1,0 +1,20 @@
+pip install - #para instalar as bibliotecas necessarias 
+
+streamlit as st
+pandas as pd
+plotly.express as px
+pandas as pd
+pickle
+pandas as pd
+numpy as np
+pickle
+
+train_test_split
+OneHotEncoder
+fColumnTransformer
+Pipeline
+RandomForestRegressor
+import mean_absolute_error, mean_squared_error, r2_score
+
+#Executar em ordem dos arquivos 1 - previsão, 2 - prevendo, 3 - painel para visualização
+run streamlit painel.py
